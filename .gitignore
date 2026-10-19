@@ -1,0 +1,11 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+!exemplo.tfvars
+.terraform.lock.hcl.bak
+crash.log
+*.retry
+.vault_pass*
+.env
+.DS_Store
